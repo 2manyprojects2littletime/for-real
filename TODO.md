@@ -3,8 +3,13 @@
 ## Calculations
 
 - periodic payment calculation
-- ROR calculation
+- ROR calculation (CoC, yield, IRR)
+- Projections (cashflow, loan paydown)
+- Improvements (estimator, paydown)
+- Interest stress testing (5.5%, 7%, breakeven point)
+- Amortisation schedule (30 year, 15 year)
 
 ## Utilities
 
 - IO
+- graphical representations
