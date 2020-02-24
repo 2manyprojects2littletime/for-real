@@ -15,5 +15,4 @@ class Payment
   def to_s
     @payment.round(2)
   end
-
 end
